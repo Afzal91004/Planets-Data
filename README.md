@@ -2,8 +2,7 @@
 
 A simple HTML and CSS project displaying a structured table of planetary data from our solar system. The table includes essential details such as mass, diameter, density, gravity, length of day, distance from the Sun, temperature, and the number of moons.  
 
-## 📜 Preview  
-![Planets Data Table](https://via.placeholder.com/800x400?text=Planets+Data+Preview)  
+
 
 ## 🚀 Features  
 - Well-structured planetary data in tabular format  
