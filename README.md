@@ -35,7 +35,7 @@ All planetary facts are sourced from:
 ## 📌 How to Use  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/planets-data.git
+   git clone https://github.com/Afzal91004/Planets-Data.git
    ```  
 2. Open `index.html` in your browser to view the table  
 
